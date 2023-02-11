@@ -1,0 +1,39 @@
+header {
+  background-color: black;
+  margin-bottom: 50px;
+  box-shadow: 0px 0px 15px 0px $negro;
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+  // position: -webkit-sticky;
+  // position: sticky;
+  top: 0;
+  z-index: 1;
+  .navbar-dark {
+    background: linear-gradient(to right, black, rgb(70, 0, 0));
+  }
+  nav {
+    div {
+      display: flex;
+      justify-content: flex-end;
+      .logo {
+        max-width: 30%;
+        vertical-align: middle;
+      }
+      a {
+        margin: 20px;
+      }
+      a ::after {
+        content: "aa";
+        background-color: red;
+        position: absolute;
+      }
+      img {
+        width: 30%;
+        height: auto;
+      }
+    }
+  }
+}
+.select-container {
+  background-color: $blanco;
+}
