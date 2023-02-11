@@ -3,63 +3,63 @@
     "id": "1",
     "nombre": "Picada 1",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 1000000,
+    "precio": 1500,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "2",
     "nombre": "Picada 2",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 800000,
+    "precio": 800,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "3",
     "nombre": "Picada 3",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 700000,
+    "precio": 700,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "4",
     "nombre": "picada 4",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 1200000,
+    "precio": 12000,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "5",
     "nombre": "Picada 5",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 2000000,
+    "precio": 2000,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "6",
     "nombre": "Picada 6",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 2100000,
+    "precio": 2100,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "7",
     "nombre": "Picada 7",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 100000,
+    "precio": 1000,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "8",
     "nombre": "Picada 8",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 80000,
+    "precio": 8000,
     "foto": "../media/promo-1.jpg"
   },
   {
     "id": "9",
     "nombre": "Picada 9",
     "descripcion": "Jamon, Queso, Salame, aceitunas",
-    "precio": 30000,
+    "precio": 3000,
     "foto": "../media/promo-1.jpg"
   }
 ]
