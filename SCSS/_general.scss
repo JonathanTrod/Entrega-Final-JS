@@ -10,8 +10,7 @@ $blancoPuro: #fff;
 $blanco: #f5f5f5;
 $grisOcscuro: #2b2b2b;
 $gris: #444444;
-$lila: #c3acb8;
-$lavanda: #d7c1d7d5;
+$rojosecreto: #3b0000;
 $transparencia: rgba(158, 158, 158, 0.137);
 
 /* === GENERAL === */
@@ -30,14 +29,14 @@ body {
   text-align: center;
   align-self: center;
   color: $blanco;
-  background-color: $gris;
+  background-color: $negro;
   border-radius: 15px 15px 15px 15px;
   transition: 0.5s ease;
   &:hover {
-    background: #4190ec;
+    background: #42e56e;
     color: #e9eef2;
   }
   &:active {
-    background: #42e56e;
+    background: #001aff;
   }
 }
